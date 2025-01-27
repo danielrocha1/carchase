@@ -5,7 +5,7 @@ import sys
 pygame.init()
 
 # Configura a tela
-largura, altura = 800, 600
+largura, altura = 600, 800
 tela = pygame.display.set_mode((largura, altura))
 pygame.display.set_caption("Meu Primeiro Jogo")
 
